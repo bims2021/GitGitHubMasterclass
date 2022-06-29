@@ -3,3 +3,5 @@
 <div> 
 <p>"working with Git is easy"</p>
 </div>
+
+<h2>Author :Eduardo Rosas</h2>
